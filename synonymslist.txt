@@ -1,0 +1,902 @@
+ability, capacity, faculty, talent, skill, competence, aptitude ,Neutral
+abolish, exterminate, extinguish, extirpate, eradicate, obliterate ,Negative
+abstinence, self-denial, temperance, sobriety, continence ,Neutral
+abstracted, absorbed, distraught, absent-minded ,Neutral
+abuse, misuse, mistreat, ill-treat, maltreat ,Negative
+accidental, fortuitous, contingent, incidental, adventitious ,Neutral
+accompany, conduct, escort, chaperone ,Neutral
+acknowledge, admit, own, avow, confess, concede ,Neutral
+active, energetic, dynamic, vigorous, lively ,Neutral
+adapt, accommodate, adjust, conform, fit, reconcile ,Neutral
+admonish, reprove, rebuke, reprimand, reproach ,Negative
+adulterate, debase, doctor, load, sophisticate ,Neutral
+advance, forward, foster, further, promote  ,Neutral
+advantage, edge, handicap, odds ,Neutral
+adventurous, adventuresome, audacious, daredevil, daring, venturesome ,Neutral
+advice, counsel, recommendation ,Neutral
+advise, counsel, recommend ,Neutral
+affair, business, concern, lookout ,Neutral
+affect, influence, impress, touch, move, strike ,Neutral
+affectation, pose, air, mannerism ,Neutral
+afflict, agonize, excruciate, rack, torment, torture ,Negative
+afraid, apprehensive, fearful ,Negative
+ageless, eternal, timeless ,Neutral
+agitate, churn, convulse, rock, shake ,Neutral
+agree, conform, harmonize, accord, correspond, coincide ,Neutral
+aim, direct, level, point, train ,Neutral
+airy, diaphanous, ethereal, filmy, gauzy, gossamer, sheer, transparent, vaporous ,Neutral
+alarm, alert, tocsin, warning ,Neutral
+allocate, appropriate, designate, earmark ,Neutral
+alone, lonely, lonesome, solitary ,Neutral
+also, too, likewise, besides, moreover, furthermore ,Neutral
+amateur, dabbler, dilettante, tyro  ,Neutral
+ambiguous, equivocal, obscure, recondite, abstruse, vague, cryptic, enigmatic ,Neutral
+ambush, ambuscade, bushwhack, waylay ,Neutral
+amenity, comfort, convenience, facility ,Neutral
+amiable, affable, good-natured, obliging, agreeable, pleasant ,Neutral
+amiss, afield, astray, awry, wrong ,Neutral
+amuse, entertain, divert, regale ,Neutral
+analyze, anatomize, dissect, resolve ,Neutral
+ancestor, forebear, forefather, progenitor ,Neutral
+anger, rage, fury, ire, wrath, resentment, indignation ,Negative
+angry, furious, indignant, irate, ireful, mad, wrathful ,Negative
+announce, advertise, broadcast, declar, proclaim, promulgate, publish ,Neutral
+annoy, irritate, bother, irk, vex, provoke, aggravate, peeve, rile ,Negative
+answer, respond, reply, retort ,Neutral
+anxiety, worry, care, concern, solicitude ,Neutral
+apology, apologetic, apologia, defense, justification ,Neutral
+apparent, clear, clear-cut, distinct, evident, manifest, obvious, patent, plain ,Neutral
+appear, emerge, issue, loom, materialize, show ,Neutral
+appendage, appurtenance, adjunct, accessory, attachment ,Neutral
+applaud, cheer, root ,Neutral
+appoint, designate, name, nominate, tap ,Neutral
+appreciate, value, prize, esteem, treasure, cherish ,Positve
+apprehend, comprehend, understand, grasp ,Neutral
+apprehension, foreboding, presentiment, misgiving ,Neutral
+appropriate, arrogate, commandeer, confiscate, preempt, usurp ,Neutral
+approve, endorse, sanction, certify, accredit, ratify ,Neutral
+arbitrary, capricious, whimsical ,Neutral
+area, region, belt, zone, district, locality ,Neutral
+argue, quarrel, wrangle, squabble, bicker ,Negative
+argument, dispute, controversy ,Neutral
+argumentative, combative, contentious, disputatious, quarrelsome, scrappy ,Neutral
+arrange, marshal, order, organize, sort, systematize ,Neutral
+art, craft, expertise, knack, know-how, technique ,Neutral
+artifice, trick, ruse, wile, feint, stratagem, maneuver, dodge ,Neutral
+artificial, synthetic, ersatz, simulated ,Neutral
+ask, question, inquire, query, interrogate, examine, quiz ,Neutral
+assent, agree, accede, acquiesce, consent, concur, subscribe ,Neutral
+assert, asseverate, declar, affirm, aver, avow ,Neutral
+assign, allot, apportion, allocate ,Neutral
+assistant, aide, coadjutant, helper, lieutenant, second ,Neutral
+attack, bombard, assail, storm, assault, beset ,Negative
+attribute, ascribe, impute, credit, assign, refer ,Neutral
+authentic, bona fide, genuine, real, true, undoubted, unquestionable ,Neutral
+authorize, accredit, commission, empower, license ,Neutral
+average, medium, mediocre, fair, middling, indifferent, tolerable ,Neutral
+aware, cognizant, conscious, sensible, awake, alert, watchful, vigilant ,Neutral
+awkward, clumsy, maladroit, inept, gauche, ungainly ,Neutral
+bad, evil, wicked ,Negative
+balance, equilibrium, equipoise, poise ,Neutral
+band, company, corps, party, troop, troupe ,Neutral
+banish, exile, expatriate, deport, transport, extradite ,Neutral
+banter, chaff, josh, kid, rag, razz, rib ,Neutral
+bargain, compact, contract, covenant, deal ,Neutral
+barrage, bombard, pepper, shower ,Neutral
+base, basis, foundation, ground, groundwork ,Neutral
+batter, maim, mangle, maul, mutilate ,Neutral
+be, breathe, exist, live, subsist ,Neutral
+bear, endure, stand, abide, suffer, tolerate ,Neutral
+bearing, manner, demeanor, mien, presence ,Neutral
+beautiful, lovely, pretty, handsome, comely, fair ,Positve
+beg, crave, beseech, implore, entreat, importune ,Neutral
+begin, commence, start, initiate, inaugurate ,Neutral
+beginning, birth, dawn, genesis, nascence, rise ,Neutral
+behavior, conduct, deportment ,Neutral
+belief, credence, credit, faith ,Neutral
+belligerent, bellicose, pugnacious, contentious, quarrelsome ,Negative
+bend, crook, curve, round ,Neutral
+beneficial, profitable, advantageous ,Positve
+benefit, capitalize, profit ,Neutral
+benevolent, charitable, ellemosynary, philanthropic ,Positve
+besiege, beleaguer, blockade, invest, siege ,Neutral
+bet, ante, pot, stake, wager ,Neutral
+bias, color, jaundice, prejudice, warp ,Neutral
+binge, fling, jag, orgy, spree ,Neutral
+bite, champ, gnaw ,Neutral
+bitter, acerbic, acrid ,Negative
+blackball, blacklist, boycott, ostracize ,Neutral
+blackout, faint, swoon, syncope ,Neutral
+blame, fault, guilt ,Negative
+blameworthy, blamable, blameful, censurable, culpable, guilty, reprehensible ,Negative
+blast, blight, dash, nip, wreck ,Neutral
+blaze, flame, flare, flash, glare, incandescence, glow ,Neutral
+blemish, imperfection, fault, defect, flaw ,Negative
+blink, nictitate, twinkle, wink ,Neutral
+block, hide, obscure, obstruct, screen, shroud ,Neutral
+bloody, gory, sanguinary, sanguineous ,Neutral
+bloom, blossom, efflorescence, florescence, flower, flush, prime ,Neutral
+blunder, bumble, flounder, lumber, lurch, stumble ,Neutral
+boast, brag, crow, vaunt ,Neutral
+bodily, corporal, corporeal, fleshly, physical, somatic ,Neutral
+body, corpse, carcass, cadaver ,Neutral
+boil, simmer, seethe, stew ,Neutral
+bombast, rant, fustian, claptrap, rodomontade ,Neutral
+bonus, bounty, subsidy, premium, prize, reward, gratuity ,Neutral
+book, bespeak, engage, reserve ,Neutral
+boor, barbarian, churl, lout, vulgarian, yahoo ,Neutral
+border, margin, edge, verge, brink, rim, brim ,Neutral
+boredom, ennui, tedium ,Negative
+boring, monotonous, tedious, irksome, tiresome, handrum ,Negative
+botch, blow, bungle, fumble, muff ,Neutral
+boundary, border, frontier, limit ,Neutral
+bouquet, nosegay, posy ,Neutral
+branch, arm, fork, offshoot ,Neutral
+brave, courageous, fearless, intrepid, bold, audacious, valient, valorous, ,Positve
+brawl, broil, donnybrook, fracas, fray, free-for-all, melee, row, ruction ,Negative
+breach, infraction, violation, transgression, trespass, infringement ,Negative
+break, crack, fracture, burst, split, splinter, shatter, shiver, smash ,Negative
+breeze, cinch, pushover, snap, walkaway, walkover ,Neutral
+bright, brilliant, radiant, lustrous, lambent, lunimous, incandescent, effulgent ,Positve
+broach, introduce, moot, raise ,Neutral
+broad-minded, broad, liberal, open-minded, tolerant ,Neutral
+brood, dwell, fret, mope, stew, worry ,Neutral
+brush, flick, glance, graze, shave, skim ,Neutral
+brute, animal, brutish, brutal, beastly, bestial ,Negative
+building, structure, edifice, pile ,Neutral
+bulge, balloon, belly, jut, overhang, project, protrude ,Neutral
+bulwark, barricade, breastwork, earthwork, rampart, bation, parapet ,Neutral
+burden, affliction, cross, trial, tribulation ,Negative
+burdensome, onerous, oppressive, arduous, demanding, rigorous, exacting ,Negative
+burn, scorch, singe, sear, char, parch ,Neutral
+business, industry, commerce, trade, traffic ,Neutral
+busy, industrious, diligent, assiduous, sedulous ,Neutral
+cadge, beg, bum, mooch, panhandle ,Neutral
+calculate, compute, reckon, cipher, figure ,Neutral
+call, convene, convoke, muster, summon ,Neutral
+calm, tranquil, placid, serene, halcyon, peaceful ,Positve
+campaign, crusade, drive, push ,Neutral
+caprice, whim, whimsy, vagary, freak ,Neutral
+care, charge, custody, keeping, supervision, trust ,Neutral
+careful, heedful, mindful, observant, watchful ,Positve
+careless, heedless, thoughtless, inadvertent ,Negative
+caress, cuddle, fondle, pet ,Neutral
+caricature, burlesque, parody, travesty, satire, lampoon ,Neutral
+casuistry, fallacy, sophistry, spuriousness, speciousness, sophism ,Neutral
+catalyst, ferment, leaven, leavening, yeast ,Neutral
+catch, enmesh, ensnare, entangle, entrap, snare, tangle, trap ,Neutral
+cause, reason, occasions, antecedent ,Neutral
+celebrity, hero, luminary, name, notable, personage ,Neutral
+center, focus, headquarters, heart, hub, seat ,Neutral
+certain, inescapable, inevitable, sure, unavoidable ,Neutral
+certainty, certitude, assurance, conviction ,Neutral
+chafe, abrade, excoriate, fret, gall ,Neutral
+chance, random, casual, haphazard, desultory ,Neutral
+charge, freight, imbue, impregnate, permeate, pervade, saturate, suffuse ,Neutral
+charm, beguile, bewitch, captivate, enchant, entrance, fascinate ,Positve
+choice, altenative, option, preference, selection, election ,Neutral
+choose, select, elect, pick ,Neutral
+chronic, confirmed, habitual, inveterate ,Neutral
+circle, coterie, set, clique ,Neutral
+circumference, circuit, compass, perimeter, periphery ,Neutral
+citizen, national, subject ,Neutral
+claim, pretense, pretension, title ,Neutral
+clean, antiseptic, cleanly, immaculate, spotless ,Neutral
+clear, limpid, lucid, pellucid, transparent ,Neutral
+clever, ingenious, shrewd ,Positve
+cliche, bromide, commonplace, platitude, truism ,Neutral
+close, immediate, near, nearby, nigh, proximate ,Neutral
+clothe, cloak, drape, mantle, robe ,Neutral
+coagulate, clot, congeal, curdle, jell, jelly, set ,Neutral
+coarse, gross, indelicate, vulgar, obscene, ribald ,Neutral
+cold, artic, chilly, cool, frigid, frosty, gelid, glacial, icy ,Neutral
+collision, concussion, crash, impact, jar, jolt, shock ,Neutral
+comfort, console, solace ,Positve
+comfortable, cozy, snug, restful ,Positve
+comment, observation, remark ,Neutral
+commit, consign, entrust, confide, relegate ,Neutral
+complex, complicated, intricate, involved, tangled, knotty ,Neutral
+conceit, amour-propre, egoism, egotism, narcissism, vanity ,Negative
+condemn, damn, doom, sentence ,Negative
+confer, consult, parley, treat ,Neutral
+confidence, assurance, aplomb, self-confidence, self-possession ,Positve
+confirm, corroborate, substantiate, authenticate, validate, verify ,Neutral
+conflict, contest, combat, fight, affray ,Negative
+confuse, addle, befuddle, discombobulate, fuddle, muddle, throw ,Neutral
+conjecture, surmise, guess, speculate, infer ,Neutral
+consider, deem, regard, account, reckon ,Neutral
+conspiracy, plot, machination, collusion, intrigue, cabal ,Neutral
+contain, hold, accommodate ,Neutral
+contaminate, befoul, foul, poison, pollute, taint ,Negative
+contemporary, contemporaneous, simultaneous, synchronous, concurrent, coincident, concomitant ,Neutral
+continual, continuous, constant, ceaseless, incessant, perpetual, eternal, perennial, interminable ,Neutral
+contract, condense, compress, constrict, shrink ,Neutral
+contrary, balky, perverse, wayward, ornery ,Neutral
+convert, metamorphose, transfigure, transform, transmogrify, transmute ,Neutral
+cool, composed, collected, unruffled, nonchalant, impertubable, detached ,Positve
+correct, rectify, remedy, redress, reform, revise, amend ,Positve
+corrupt, debase, debauch, deprave, pervert, vitiate ,Negative
+count, import, matter, signify, weigh ,Neutral
+couple, pair, brace, yoke ,Neutral
+crisis, crossroad, exigency, head, juncture, pass ,Negative
+critical, captious, censorious, faultfinding ,Negative
+criticize, blame, reprehend, censure, condemn, denounce ,Negative
+crowd, crush, flock, horde, mob, press, throng ,Neutral
+crude, native, raw ,Neutral
+cruel, fierce, ferocious, barbarous, inhuman, savage, vicious ,Negative
+crush, mash, pulp, smash, squash ,Negative
+cry, weep, wail, keen, whimper, sob, blubber ,Negative
+cure, heal, remedy ,Neutral
+curious, inquisitive, snoopy, nosy ,Neutral
+dark, dim, murky, dusky, obscure, opaque, shady, shadowy ,Neutral
+daze, bemuse, benumb, stun, stupefy ,Neutral
+dead, deceased, departed, extinct, lifeless, inanimate ,Negative
+decay, rot, putrefy, spoil, crumble, molder, disintegrate, decompose ,Negative
+deceive, betray, mislead, beguile, delude, dupe, hoodwink, bamboozle, double-cross ,Negative
+decide, determine, settle, rule, conclude, resolve ,Neutral
+decision, conclusion, determination ,Neutral
+decisive, conclusive, crucial, definitive, determinative ,Neutral
+decrease, lessen, reduce, dwindle, abate, diminish, subside ,Neutral
+decry, disparage, depreciate, derogate, belittle, minimize, downgrade ,Neutral
+deep, abysmal, profound ,Neutral
+defeat, conquer, vanquish, beat, rout, subdue, subjugate, overcome ,Neutral
+defend, protect, guard, preserve, shield, safeguard ,Neutral
+defer, postpone, shelve, stay, suspend ,Neutral
+defy, beard, brave, challenge, dare, face, front ,Neutral
+degrade, abase, debase, demean, humble, humiliate ,Negative
+delay, slow, retard, detain ,Neutral
+delicate, choice, dainty, elegant, exquisite, fine ,Neutral
+delicious, ambrosial, delectable, luscious, scrumptious, toothsome, yummy ,Neutral
+demand, claim, exact, require ,Neutral
+demote, break, bust, degrade, downgrade, reduce ,Neutral
+deny, contradict, contravene, disaffirm, gainsay, negate, negative, traverse ,Negative
+dependent, conditional, contingent, relative, subject ,Neutral
+deplete, drain, exhaust, impoverish, enervate ,Neutral
+depressed, blue, dejected, dispirited, downcast, downhearted ,Negative
+describe, narrate, recite, recount, rehearse, relate, report ,Neutral
+desire, covet, crave, want, wish ,Positve
+despair, hopelessness, desperation, despondency, discouragement ,Negative
+despise, contemn, disdain, scorn, scout ,Negative
+despondent, despairing, forlorn, hopeless  ,Negative
+detailed, circumstantial, minute, particular ,Neutral
+development, evolution, progress ,Neutral
+deviation, aberration, divergence ,Neutral
+devote, dedicate, consecrate, pledge ,Neutral
+dexterous, deft, adroit, handy, nimble ,Neutral
+dialect, vernacular, jargon, cant, argot, lingo, patois ,Neutral
+dictate, decree, impose, ordain, prescribe ,Neutral
+dictatorial, authoritarian, dogmatic, doctrinaire, imperious, overbearing ,Negative
+diction, wording, vocabulary, phraseology, phrasing ,Neutral
+differ, disagree, vary ,Neutral
+difference, dissimilarity, unlikeness, divergence, variation, distinction, discrepancy ,Neutral
+difficulty, hardship, rigor, vicissitude ,Negative
+dip, douse, duck, drunk, imerse, souse, submerge ,Neutral
+dirty, filthy, foul, nasty, squalid, grimy ,Negative
+disadvantage, detriment, drawback, handicap  ,Negative
+disappear, evanesce, evaporate, fade, vanish ,Neutral
+disaster, calamity, catastrophe, cataclysm ,Negative
+discord, strife, contention, dissention, conflict, clash, variance ,Negative
+discourage, dishearten, dispirit  ,Negative
+discover, ascertain, determine, learn ,Neutral
+discuss, argue, debate, dispute, contend ,Neutral
+disgrace, dishonor, shame, infamy, ignomity, odium, obloquy, opprobrium, disrepute, discredit ,Negative
+disguise, camouflage, cloak, dissemble, dissimulate, mask ,Neutral
+disgust, nauseate, repel, revolt, sicken ,Negative
+dishonest, lying, untruthful, deceitful, mendacious ,Negative
+dismay, appall, daunt, horrify, shake ,Negative
+dismiss, boot, bounce, can, cashier, discharge, drop, fire, sack ,Negative
+display, array, panoply, parade, pomp ,Neutral
+disposition, temperament, character, personality, nature ,Neutral
+dissuade, deter, discourage  ,Negative
+distant, far, far-off, faraway, remote, removed ,Neutral
+distinct, discrete, separate, several ,Neutral
+distort, twist, deform, contort, warp ,Neutral
+distribute, divide, dispense, dole, deal, ration ,Neutral
+doctrine, dogma, tenet ,Neutral
+dominant, predominant, preponderant, paramount, preeminent ,Neutral
+doubtful, dubious, questionable ,Negative
+dramatic, histrionic, melodramatic, stagy, theatrical ,Neutral
+dry, dehydrate, desiccate, parch  ,Neutral
+dull, colorless, drab, humdrum, lackluster, pedestrian, stodgy, uninspired ,Negative
+dumb, inarticulate, mute, speechless ,Negative
+eager, avid, keen, agog ,Neutral
+earn, deserve, merit, rate, win ,Positve
+easy, simple, facile, effortless, smooth, light ,Neutral
+eat, consume, devour, ingest ,Neutral
+eccentricity, idiosyncracy, quirk ,Neutral
+echo, reecho, reflect, resound, reverberate ,Neutral
+ecstasy, rapture, transport, exaltation ,Neutral
+effect, consequence, result, outcome, upshot, sequel ,Neutral
+effective, effectual, efficacious, efficient ,Neutral
+effort, exertion, endeavor, application, pains, trouble ,Neutral
+eject, expel, evict, dismiss, oust ,Neutral
+elaborate, complicated, intricate ,Neutral
+elderly, old, aged, venerable, superannuated ,Neutral
+elegance, grace, polish, urbanity ,Positve
+element, component, constituent, factor, ingredient ,Neutral
+elevation, altitude, height ,Neutral
+eliminate, eradicate, liquidate, purge ,Neutral
+embarrass, abash, chagrin, discomfit, disconcert, faze, rattle ,Negative
+emphasis, accent, stress ,Neutral
+empty, vacant, blank, void, vacuous, bare, barren ,Neutral
+enclose, cape, coop, fence, hem, pen, wall ,Neutral
+encomium, eulogy, panegyric, tribute, citation ,Neutral
+encourage, animate, cheer, embolden, hearten, inspirit ,Positve
+endanger, hazard, imperil, jeopardize, risk ,Negative
+enforce, implement, invoke ,Neutral
+engagement, appointment, assignation, date, rendezvous, tryst ,Neutral
+enmity, hostility, antagonism, animosity, rancor, antipathy, animus ,Neutral
+enormous, immense, huge, gigantic, colossal, mammoth, tremendous, stupendous, gargantuan, vast ,Neutral
+enrapture, entrance, ravish, thrill, transport ,Neutral
+envy, begrudge, covet ,Negative
+equanimity, composure, sang-froid, serenity ,Neutral
+equipment, apparatus, gear, materiel, outfit, paraphernalia, rig, tackle ,Neutral
+erase, expunge, efface, delete, cancel ,Neutral
+error, mistake, oversight ,Neutral
+escape, avoid, shun, eschew, evade, elude ,Neutral
+estimate, appraise, assess, assay, evaluate, rate ,Neutral
+estrange, alienate, disaffect ,Neutral
+etiquette, propriety, protocol, decomrum ,Neutral
+evoke, educe, elicit ,Neutral
+exaggerate, inflate, magnify, overstate ,Neutral
+example, instance, case, illustration, sample, specimen ,Neutral
+excel, surpass, exceed, transcend, outdo, outstrip ,Negative
+excessive, exorbitant, extravagant, immoderate, inordinate, extreme, unreasonable ,Neutral
+existence, actuality, being ,Neutral
+expect, anticipate, hope, await ,Neutral
+experience, suffer, sustain, taste, undergo ,Neutral
+explain, elucidate, expound, explicate, interpret, construe ,Neutral
+explicit, categorical, definite, express, specific ,Neutral
+expressive, eloquent, meaningful, significant ,Neutral
+extemporaneous, extemporary, extempore, impromptu, offhand, unrehearsed, unpremeditated, ad-lib ,Neutral
+extricate, disengage, disentangle, untangle ,Neutral
+extrinsic, extraneous, foreign, alien ,Neutral
+face, countenance, kisser, mug, pan, physiognomy, puss, visage ,Neutral
+fair, just, equitable, impartial, unprejudiced, unbiased, objective, dispassionate ,Neutral
+faithful, loyal, true, constant, fast, steadfast, staunch ,Positve
+faithless, unfaithful, false, disloyal, traitorous, treacherous, perfidious, recreant ,Negative
+familiar, close, intimate, confidential, chummy ,Neutral
+fanatic, zealot, enthusiast ,Positve
+fantastic, bizarre, grotesque, fanciful, exotic ,Positve
+fashion, style, mode, vogue ,Neutral
+fashionable, chic, dashing, in, modish, posh, sharp, smart, stylish, swank, trendy ,Positve
+fast, rapid, swift, fleet, speedy, quick, hasty, expeditious ,Neutral
+fasten, anchor, fix, moor, secure ,Neutral
+fat, obese, corpulent, fleshy, portly, stout, pudgy, rotund, plump, chubby ,Neutral
+fatal, deadly, mortal, lethal ,Negative
+fate, destiny, kismet, lot, portion ,Neutral
+fault, failing, weakness, frailty, foible, vice ,Negative
+favorable, propitious, auspicious, benign, conducive ,Positve
+fawn, apple-polish, bootlick, kowtow, slaver, toady, truckle ,Neutral
+fear, fright, dread, terror, horror, panic, alarm, dismay, consternation, trepidation ,Negative
+feat, achievement, exploit, masterstroke ,Neutral
+feeling, emotion, passion, sentiment ,Neutral
+feminine, female, womanly, womanish, effeminate, ladylike ,Neutral
+fertile, fecund, fruitful, productive, prolific ,Neutral
+fidelity, allegiance, fealty, loyalty ,Neutral
+field, bailiwick, domain, province, realm, sphere, territory ,Neutral
+figure, design, device, motif, pattern ,Neutral
+financial, pecuniary, fiscal, monetary ,Neutral
+firm, hard, solid ,Neutral
+fit, suitable, meet, proper, appropriate, apt, fitting, happy, felicitous ,Neutral
+flagrant, glaring, gross, egregious, rank ,Neutral
+flash, gleam, glance, glint, sparkle, glitter, glisten, shimmer, glimmer, twinkle, scintillate ,Neutral
+flexible, elastic, resilient, springy, supple ,Neutral
+flirt, dally, play, toy, trifle ,Positve
+flock, flight, herd, drove, pack, gang, gaggle, bevy, brood ,Neutral
+flourish, brandish, wave ,Positve
+flow, current, flood, flux, rush, stream, tide ,Neutral
+flutter, flicker, flit, flitter, hover ,Neutral
+follow, succeed, ensue, result, supervene ,Neutral
+foolish, silly, fatuous, absurd, preposterous, ridiculous, ludicrous ,Negative
+forbid, ban, enjoin, interdict, prohibit, proscribe ,Negative
+force, compel, coerce, constrain, oblige, obligate ,Negative
+foreign, alien, exotic, strange ,Neutral
+foretell, augur, divine, prophesy, vaticinate ,Neutral
+forgetful, unmindful, oblivious ,Negative
+forgive, pardon, excuse, condone ,Positve
+form, figure, shape, configuration, contour, profile ,Neutral
+forte, metier, specialty, thing ,Neutral
+found, create, establish, institute, organize ,Neutral
+fragile, breakable, frangible, delicate, brittle ,Neutral
+fragrance, aroma, bouquet, perfume, redolence, scent ,Neutral
+frank, candid, outspoken, straightforward, open ,Neutral
+freedom, liberty, license ,Neutral
+frighten, scare, alarm, terrify, terrorize, startle, panic ,Negative
+frown, glower, lower, scowl ,Negative
+frustrate, thwart, foil, balk ,Negative
+full, complete, plenary, replete ,Neutral
+function, duty, office, role ,Neutral
+furnish, equip, outfit, appoint, accouter ,Neutral
+futile, barren, bootless, fruitless, unavailing, useless, vain ,Neutral
+gather, collect, assemble, congregate, accumulate, amass ,Neutral
+gaudy, flashy, garish, loud, meretricious, tawdry ,Neutral
+gaze, stare, gape, glare, peer, ogle ,Neutral
+general, common, generic, universal  ,Neutral
+gesture, gesticulation, sign, signal ,Neutral
+ghastly, grim, gruesome, grisly, macabre, lurid ,Negative
+giddy, dizzy, vertiginous ,Positve
+glad, happy, cheerful, lighthearted, joyful, joyous ,Positve
+glib, slick, smooth-tongued ,Neutral
+glum, gloomy, morose, crabbed, dour, saturnine, sullen, surly, sulky ,Negative
+gossip, blab, tattle ,Neutral
+gracious, cordial, genial, sociable  ,Positve
+grand, magnificient, imposing, stately, majestic, august, grandiose ,Positve
+grant, vouchsafe, concede, accord, award ,Neutral
+graphic, lifelike, realistic, vivid ,Neutral
+grieve, lament, mourn, sorrow ,Negative
+gruff, brusque, blunt, bluff, curt, crusty ,Neutral
+guide, lead, pilot, sheperd, steer, usher ,Neutral
+habit, practice, custom, usage, use, wont, habitude ,Neutral
+haggard, wasted, worn, careworn ,Neutral
+hamper, fetter, handcuff, hobble, hog-tie, manacle, shackle, trammel ,Neutral
+handle, manipulate, wield, ply ,Neutral
+happen, befall, betide, chance, occur ,Neutral
+happy, fortunate, lucky, providential ,Positve
+harass, harry, hound, badger, pester, plague, bait ,Negative
+hard, difficult, arduous ,Negative
+harden, acclimate, acclimatize, season, toughen ,Neutral
+haste, celerity, dispatch, expedition, hurry, speed  ,Negative
+hateful, detestable, odious, obnoxious, offensive, repellent ,Negative
+healthy, sound, wholesome, hale, robust, well, hardy, vigorous ,Positve
+heap, bank, mound, pile, stack ,Neutral
+heavy, weighty, hefty, massive, ponderous, cumbersome ,Neutral
+help, aid, assist, succor ,Neutral
+heritage, inheritance, legacy, tradition ,Neutral
+hesitate, vacillate, waver, falter ,Neutral
+hide, conceal, secrete, cache, screen, bury, cloak ,Neutral
+high, tall, lofty, towering, elevated ,Neutral
+hinder, hamper, impede, obstruct, block, dam, bar ,Negative
+hole, hollow, cavity, pocket ,Neutral
+honesty, honor, integrity, probity, rectitude ,Positve
+honor, homage, reverence, veneration, deference ,Positve
+humane, compassionate, humanitarian, merciful ,Neutral
+idea, thought, notion, concept, conception ,Neutral
+ideal, model, example, exemplar, standard, pattern ,Neutral
+ignorant, uneducated, untaught, unlearned, untutored, unlettered, illiterate ,Negative
+imagination, fancy, fantasy ,Neutral
+imitate, copy, mimic, ape, parody, simulate ,Neutral
+immaterial, incorporeal, insubstantial, metaphysical, spiritual ,Neutral
+impact,repercussion,Neutral
+impetuous, heedless, hasty, headlong, precipitate, sudden ,Neutral
+importance, consequence, moment, significance, import, weight ,Neutral
+impostor, quack, faker, humbug, mountebank, charlatan ,Neutral
+impression, impress, imprint, print, stamp ,Neutral
+improper, unbecoming, unseemly, indelicate, indecent, indecorous ,Neutral
+improve, better, help, ameliorate ,Neutral
+inactive, idle, inert, passive, dormant, torpid, supine ,Neutral
+incalculable, countless, immeasurable, incomputable, infinite, innumerable, measureless ,Neutral
+incisive, trenchant, biting, cutting, crisp, clear-cut ,Neutral
+incite, instigate, foment, abet ,Neutral
+incline, bias, dispose, predispose [DISINCLINE] ,Neutral
+include, comprise, comprehend, embrace, involve ,Neutral
+inconsistent, incongruous, incompatible, discordant, uncongenial, discrepant ,Neutral
+increase, expand, enlarge, extend, augment, multiply ,Neutral
+indicate, argue, attest, bespeak, betoken, testify, witness ,Neutral
+indifferent, unconcerned, incurious, detached, uninterested ,Negative
+indirect, circuitous, roundabout ,Neutral
+indispensable, essential, necessary, needful, requisite ,Neutral
+infinite, boundless, eternal, illimitable, sempiternal [FINITE] ,Neutral
+inflexible, inexorable, adamant, obdurate ,Neutral
+injure, harm, hurt, damage, impair, mar, spoil ,Negative
+injustice, injury, wrong, grievance ,Neutral
+innate, inborn, inbred, congenital, hereditary ,Neutral
+inquiry, inquest, inquisition, investigation, probe, research ,Neutral
+insanity, lunacy, madness, mania, dementia ,Negative
+instinctive, instinctual, intuitive, visceral ,Neutral
+insubordinate, rebellious, mutinous, factious, seditious ,Negative
+intelligent, bright, brilliant, knowing, quick-witted, smart, intellectual ,Positve
+intense, fierce, vehement, violent ,Neutral
+intention, intent, purpose, goal, end, aim, object, objective ,Neutral
+interfere, meddle, tamper ,Neutral
+intimidate, browbeat, bulldoze, cow, bully, bludgeon ,Negative
+introduce, insert, interject, interlard, interpolate, interpose ,Neutral
+intrude,obtrude,Neutral
+irrelevant, extraneous, immaterial, impertinent ,Neutral
+isolate, insulate, seclude, segregate, sequester ,Neutral
+item, detail, particular ,Neutral
+jealous, covetous, envious ,Negative
+jerk, snap, twitch, wrench, yank ,Neutral
+join, combine, unite, link, connect, relate, associate ,Neutral
+joke, jest, witticism, quip, sally, crack, wisecrack, gag ,Positve
+jolly, jovial, merry, blithe, jocund ,Neutral
+judge, arbitrator, arbiter, referee, umpire ,Neutral
+justify,warrant,Neutral
+keep, retain, withhold, reserve ,Neutral
+kind, kindly, kindhearted, benign, benevolent ,Neutral
+knowledge, information, learning, erudition, lore, scholarship ,Neutral
+lack, want, need ,Neutral
+large, big, great  ,Neutral
+last, final, terminal, eventual, ultimate ,Neutral
+latent, dormant, quiescent ,Neutral
+lawyer, attorney, counselor, counsel, barrister, solicitor ,Neutral
+lazy, faineant, idle, indolent, slothful ,Negative
+lean, spare, skinny, scrawny, lank, lanky, rawboned, gaunt ,Neutral
+learned, erudite, scholarly ,Neutral
+lethargy, lassitude, torpor, torpidity, stupor, languor ,Negative
+letter, epistle, missive, note ,Neutral
+level, flat, even, plane, smooth, flush ,Neutral
+liberal, bounteous, bountiful, freehanded, generous, handsome, munificent, openhanded ,Neutral
+lie, equivocate, fib, palter, prevaricate ,Negative
+lift, raise, rear, elevate, hoist, heave, boost ,Neutral
+like, love, enjoy, relish, fancy, dote ,Positve
+likeness, similarity, similitude, resemblance, analogy, affinity ,Positve
+limit, restrict, confine, circumscribe ,Neutral
+limp, flabby, flaccid, floppy  ,Neutral
+livelihood, living, subsistence, sustenance, maintenance, support, keep ,Neutral
+living, alive, live, animate, animated, vital ,Neutral
+logical, analytic, ratiocinative, rational ,Neutral
+loose, lax, slack ,Neutral
+loud, earsplitting, stentorian, strident  ,Neutral
+love, affection, devotion, fondness, infatuation ,Positve
+lure, entice, inveigle, decoy, tempt, seduce ,Neutral
+lurk, skulk, slink, sneak ,Neutral
+luxury, extravagance, frill  ,Neutral
+makeshift, expedient, resort, stopgap ,Neutral
+male, masculine, manlike, manly, manful, virile, mannish ,Neutral
+malign, defame, traduce, vilify, asperse, slander, calumniate, libel ,Neutral
+malleable, ductile, plastic, pliable, pliant ,Neutral
+manipulate, exploit, maneuver ,Negative
+mark, brand, label, tag, ticket ,Neutral
+mature, age, develope, ripen ,Neutral
+meager, spare, sparse, skimpy, scanty, scant ,Neutral
+mean, denote, import, signify ,Neutral
+meaning, acceptation, import, sense, significance, signification ,Neutral
+meaningless, senseless, mindless, irrational, pointless, purposeless ,Negative
+melt, fuse, liquefy, thaw, deliquesce ,Neutral
+memory, remembrance, recollection, reminiscence ,Neutral
+mercy, leniency, lenity, clemency, charity ,Positve
+method, system, routine, manner, mode, fashion, way ,Neutral
+meticulous, careful, painstaking, scrupulous, fastidious, punctilious ,Neutral
+mind, intellect, intelligence, brain, wit, reason ,Neutral
+mirth, merriment, jollity, hilarity, glee ,Neutral
+miscellaneous, heterogeneous, motley, mixed, varied, assorted ,Neutral
+misfortune, adversity, mishap, mischance ,Negative
+misleading, deceptive, delusive, delusory ,Negative
+mix, blend, mingle, coalesce, merge, amalgamate, fuse ,Neutral
+mixture, blend, admixture, compund, composite, amalgam ,Neutral
+moderate, qualify, temper  ,Neutral
+moment, instant, minute, second, jiffy, flash ,Neutral
+monopolize, absorb, consume, engross, preoccupy ,Neutral
+mood, humor, temper ,Neutral
+moral, ethical, virtuous, righteous ,Positve
+morale, esprit, esprit de corps ,Neutral
+moving, stirring, poignant, touching, pathetic, affecting ,Neutral
+multitude, host, legion, army ,Neutral
+muscular, athletic, brawny, burly, sinewy ,Neutral
+mysterious, esoteric, arcane, occult, inscrutable ,Neutral
+naive, simple, ingenuous, unsophisticated, natural, unaffected, guileless, artless ,Neutral
+name, designation, denomination, title, appellation, cognomen ,Neutral
+native, indigenous, endemic, autochthonous, aboriginal ,Neutral
+nautical, marine, maritime, naval ,Neutral
+neat, tidy, trim, shipshape, spick-and-span, spruce, trig ,Positve
+need, necessity, exigency, requisite ,Neutral
+negligent, derelict, lax, neglectful, remiss, slack ,Negative
+neutralize, negate, nullify, counteract ,Neutral
+new, fresh, novel, newfangled, original ,Neutral
+news, advice, intelligence, tidings, word ,Neutral
+nimble, agile, quick, brisk, facile, spry ,Neutral
+noise, din, racket, uproar, pandemonium, hullabaloo, hubbub, clamor, babel ,Neutral
+normal, regular, natural, typical ,Neutral
+noted, celebrated, eminent, famed, famous, illustrious, notable, preeminent, renowned ,Neutral
+noticeable, observable, marked, conspicuous, prominent, outstanding, ,Neutral
+nuance, gradation, shade ,Neutral
+nurture, cultivate, foster, nurse ,Neutral
+obedient, biddable, compliant, acquiescent, submissive, docile, amenable, tractable ,Positve
+object, protest, kick, demur, remonstrate, expostulate ,Neutral
+obligation, responsibility, duty ,Neutral
+oblige, accommodate, favor  ,Neutral
+observe, keep, celebrate, commemorate, solemnize ,Neutral
+obstacle, obstruction, bar, barrier, block, hindrance, impediment, snag ,Negative
+obstinate, stubborn, headstrong, stiff-necked, bullheaded, pigheaded, mulish, dogged, pertinacious ,Negative
+occurrence, happening, event, incident, episode, circumstance ,Neutral
+offend, insult, affront, outrage ,Negative
+offense, crime, sin, error ,Negative
+offensive, disgusting, loathsome, nasty, repellent, repulsive, revolting, vile ,Negative
+offer, proffer, tender, present ,Neutral
+old, ancient, archaic, antediluvian, obsolete, antique, antiquated ,Neutral
+opinion, view, sentiment, feeling, belief, conviction, persuasion ,Neutral
+opponent, adversary, antagonist ,Neutral
+opportune, seasonable, timely, well-timed  ,Neutral
+opportunity, occasion, opening, chance, break ,Neutral
+oppose, fight, combat, resist, withstand, contest ,Negative
+opposite, contrary, antithetical, contradictory ,Neutral
+orderly, methodical, systematic ,Neutral
+origin, inception, source, root ,Neutral
+ornate, florid, flamboyant, baroque, rococo ,Neutral
+outline, contour, profile, silhouette ,Neutral
+outlive, outlast, survive ,Neutral
+outrageous, flagrant, atrocious, monstrous ,Positve
+overthrow, overturn, subvert, topple, upset ,Neutral
+pacify, mollify, conciliate, appease, placate ,Neutral
+pain, ache, pang, smart, stitch, throe, twinge ,Negative
+palliate, extenuate, gloss, gloze, whitewash ,Neutral
+pamper, indulge, humor, spoil, coddle, mellycoddle, babe ,Positve
+paragon, nonsuch, nonpareil ,Neutral
+partner, colleague, ally, confederate ,Neutral
+passion, fervor, fire, zeal, ardor ,Positve
+pathetic, pitiful, pitiable, piteous, lamentable ,Negative
+patience, long-suffering, resignation, forbearance ,Neutral
+pause, intermission, recess, respite, suspension ,Neutral
+pedantic, academic, bookish, donnish, scholastic ,Neutral
+penitence, compunction, contrition, remorse, repentance ,Positve
+pensive, contemplative, reflective, meditative, thoughtful ,Neutral
+perceptible, palpable, appreciable, noticeable, discernible ,Neutral
+perfect, consummate, faultless, flawless, impeccable  ,Positve
+perform, execute, accomplish, achieve, effect, fulfill, discharge ,Positve
+period, epoch, era, age, term ,Neutral
+periodic, sporadic, intermittent, occasional, fitful ,Neutral
+permission, authorization, consent, leave, license  ,Neutral
+perseverance, persistence, tenacity, pertinacity ,Positve
+persuade, induce, prevail, convince ,Neutral
+phase, aspect, facet, angle, side ,Neutral
+physique, build, constitution ,Neutral
+pity, compassion, commiseration, sympathy, condolence, empathy ,Neutral
+plain, modest, simple, unostentatious, unpretentious  ,Neutral
+plan, blueprint, design, project, scheme, strategy ,Neutral
+plausible, believable, colorable, credible ,Neutral
+playful, mischievous, impish, waggish, frolicsome ,Positve
+please, delight, gladden, gratify, tickle  ,Positve
+pleasure, enjoyment, delight, delectation, joy ,Positve
+plentiful, abundant, ample, copious, plenteous  ,Neutral
+poet, bard, versifier, rhymer, rhymester, poetaster ,Neutral
+poisonous, mephitic, pestilent, pestilential, toxic, venomous, virulent ,Negative
+polite, mannerly, civil, courteous, genteel ,Positve
+ponder, meditate, deliberate, ruminate, mull, muse ,Neutral
+poor, indigent, needy, impecunious, penniless, impoverished, poverty-stricken, destitute ,Negative
+possible, workable, practicable, feasible, viable ,Neutral
+posture, attitude, carriage, pose, stance ,Neutral
+practice, drill, exercise, rehearse ,Neutral
+praise, acclaim, commend, extol, laud ,Positve
+predicament, plight, quandary, jam, fix, pickle ,Neutral
+predict, call, forecast, foretell, prognosticate ,Neutral
+predilection, bias, leaning, partiality, penchant, prejudice, proclivity, propensity ,Neutral
+preliminary, introductory, prefatory, preparatory ,Neutral
+presume, presuppose, postulate, posit, assume ,Neutral
+pretend, simulate, feign, fake, counterfeit ,Negative
+prevailing, prevalent, current, rife ,Neutral
+prevent, preclude, avert, obviate, forestall ,Neutral
+price, charge, cost, expense ,Neutral
+produce, bear, yield ,Neutral
+profane, blasphemous, sacrilegious ,Neutral
+proficient, adept, skilled, skillful, expert ,Positve
+profuse, exuberant, lavish, lush, luxuriant, prodigal, riotous  ,Neutral
+promise, covenant, engage, pledge, plight, swear, vow ,Neutral
+prone, supine, prostrate, recumbent ,Neutral
+proportion, harmony, symmetry, balance ,Neutral
+propose, pose, propound, submit ,Neutral
+proud, arrogant, haughty, disdainful, supercilious ,Negative
+provoke, incite, excite, stimulate, arouse, rouse, stir ,Neutral
+prudence, discretion, foresight, forethought, circumspection ,Neutral
+pull, drag, draw, haul, tow, tug  ,Neutral
+pulsate, pulse, beat, palpitate, throb ,Neutral
+punish, correct, chastise, discipline, castigate, penalize ,Negative
+pure, absolute, sheer, simple, unadulterated ,Positve
+push, propel, shove, thrust  ,Neutral
+puzzle, perplex, mystify, bewilder, confound ,Neutral
+quality, property, attribute, character, trait ,Neutral
+qualm, scruple, compunction, misgiving ,Neutral
+quibble, carp, cavil, niggle, nitpick, pettifog ,Neutral
+range, ambit, compass, orbit, purview, reach, scope, sweep ,Neutral
+reach, achieve, attain, gain, compass ,Neutral
+real, actual, true, existent ,Neutral
+reap, garner, gather, gleam, harvest ,Neutral
+reason, intuition, understanding, judgement ,Neutral
+rebellion, revolution, revolt, mutiny, insurrection, uprising ,Negative
+recede, ebb, retract, retreat, retrograde  ,Neutral
+reciprocate, requite, return ,Neutral
+reckless, rash, precipitate, foolhardy, temerarious ,Negative
+recoil, blench, quail, shrink, flinch ,Neutral
+recover, regain, recoup, retrieve ,Neutral
+refer, advert, mention ,Neutral
+refrain, abstain, forbear ,Neutral
+refuse, decline, reject, spurn, rebuff ,Negative
+regard, esteem, admiration, respect ,Positve
+regret, sorrow, grief, anguish, woe, heartache, heartbreak ,Negative
+relevant, pertinent, germane, material, apposite, apropos  ,Neutral
+reliable, dependable, responsible, trustworthy ,Positve
+relieve, allay, alleviate, assuage, lighten, mitigate, palliate ,Positve
+religious, devout, pious, sanctimonious ,Neutral
+relinquish, yield, resign, abandon, surrender, cede, waive, renounce ,Neutral
+rely, trust, depend, reckon ,Neutral
+remainder, rest, balance, residue, residuum, remnant, leavings, remains ,Neutral
+remember, bethink, recall, recollect  ,Neutral
+reparation, redress, amends, restitution, indemnity ,Neutral
+repeat, iterate, reiterate, restate ,Neutral
+replace, supplant, supersede ,Neutral
+represent, delineate, depict, limn, picture, portray ,Neutral
+resort, apply, go, refer, turn ,Neutral
+responsible, answerable, liable, accountable, amenable ,Neutral
+rest, relaxation, repose, leisure, ease, comfort ,Neutral
+restrain, curb, check, bridle, inhibit ,Neutral
+return, revert, recur, recrudesce ,Neutral
+reveal, expose, disclose, divulge, betray ,Neutral
+revere, worship, venerate, adore, idolize ,Neutral
+reverse, invert, transpose ,Neutral
+revive, restore, resuscitate, revivify ,Positve
+rhythm, meter, cadence ,Neutral
+rich, affluent, flush, loaded, moneyed, wealthy  ,Positve
+ridicule, mock, taunt, twit, deride, gibe ,Neutral
+right, privilege, prerogative, perquisite, birthright ,Neutral
+rise, ascend, climb, soar, tower, mount, surge ,Neutral
+rival, compete, vie, emulate ,Negative
+room, elbowroom, latitude, leeway, margin, play, scope ,Neutral
+rough, harsh, jagged, rugged, scabrous, uneven ,Negative
+rude, crude, primitive, raw, rough ,Negative
+ruin, raze, demolish, destroy, wreck ,Neutral
+rural, bucolic, rustic, pastoral ,Neutral
+sad, melancholy, sorrowful, doleful, woebegone, desolate ,Negative
+same, identical, selfsame, very  ,Neutral
+sarcastic, ironic, caustic, satirical, sardonic ,Neutral
+satiate, sate, cloy, glut, gorge, surfeit ,Neutral
+satisfy, answer, fill, fullfil, meet ,Positve
+save, rescue, reclaim, redeem, deliver ,Neutral
+saying, maxim, adage, saw, motto, epigram, proverb, aphorism ,Neutral
+scatter, disperse, dissipate, dispel ,Neutral
+scold, upbraid, berate, revile, vituperate, rail ,Negative
+scream, shriek, screech ,Neutral
+secret, stealthy, covert, clandestine, furtive, surreptitious, underhand ,Neutral
+see, behold, note, notice, espy, descry, observe, contemplate, survey, view, perceive, discern, remark ,Neutral
+seek, hunt, quest, search ,Neutral
+seem, appear, look ,Neutral
+send, dispatch, forward, route, ship, transmit ,Neutral
+sensuous, sensual, luxurious, voluptuous, sybaritic, epicurean ,Positve
+sentimental, bathetic, maudlin, mawkish, mushy, romantic, schmaltzy, slushy, soppy ,Neutral
+separate, divide, part, sever, sunder, divorce ,Neutral
+series, succession, progression, sequence, chain, train, string ,Neutral
+serious, sober, grave, solemn, earnest, sedate, staid ,Neutral
+servitude, bondage, slavery ,Neutral
+severe, stern, austere, ascetic, strict ,Neutral
+shade, penumbra, shadow, umbra, umbrage ,Neutral
+shake, tremble, quake, quiver, shiver, shudder ,Neutral
+shameless, brazen, barefaced, brash, impudent, unblushing ,Negative
+shapleless, amorphous, formless, unformed, unshaped  ,Neutral
+share, participate, partake ,Neutral
+sharp, keen, acute ,Neutral
+shelter, cover, retreat, refuge, asylum, sanctuary ,Neutral
+shorten, abbreviate, abridge, curtail, truncate [LENGTHEN] ,Neutral
+shout, bawl, bellow, holler, howl, roar, whoop, yell ,Neutral
+show, display, expose, parade, exhibit, flaunt ,Neutral
+showy, flamboyant, ostentatious, pretentious, splashy ,Negative
+shrewd, sagacious, astute, perspicacious ,Neutral
+shy, bashful, diffident, modest, coy, demure ,Neutral
+sign, badge, mark, token, symptom, note ,Neutral
+silent, reticent, reserved, taciturn, secretive, uncommunicative, tightlipped ,Neutral
+sincere, unaffected, unfeigned, wholehearted, hearty, heartfelt ,Positve
+single, sole, unique, solitary, lone, separate ,Neutral
+sinister, baleful, malign ,Negative
+slant, incline, lean, slope, tilt, tip ,Neutral
+sleek, glossy, satiny, silken, silky, slick ,Neutral
+slide, slip, glide, coast, skid, slither ,Neutral
+sloppy, slovenly, unkempt, slipshod ,Neutral
+slow, dilatory, leisurely, laggard, deliberate ,Neutral
+sly, cunning, tricky, crafty, wily, foxy, artful, guileful ,Neutral
+small, diminutive, little, miniature, minuscule, minute, petite, tiny, wee  ,Neutral
+smell, aroma, odor, scent ,Neutral
+smile, grin, simper, smirk ,Positve
+social, companionable, convivial, gregarious, sociable  ,Neutral
+solitude, isolation, seclusion, retirement ,Neutral
+solve, decipher, resolve, unravel ,Neutral
+sour, acid, acidulous, dry, tart ,Neutral
+spacious, ample, capacious, commodious, roomy ,Neutral
+sparing, frugal, thrifty, economical ,Neutral
+speak, talk, converse, discourse ,Neutral
+speed, hurry, hasten, quicken, accelerate, precipitate ,Neutral
+spend, disburse, expend  ,Neutral
+spontaneous, impulsive, instinctive, involuntary, automatic ,Neutral
+stain, blot, brand, stigma, taint ,Neutral
+stammer,stutter,Neutral
+standard, benchmark, criterion, gauge, measure, touchstone, yardstick ,Neutral
+state, condition, situation, status ,Neutral
+stay, remain, wait, abide, tarry, linger, sojourn ,Neutral
+steady, even, equable, uniform, constant ,Neutral
+steal, purloin, filch, snitch, pilfer, cop, hook, swipe, pinch ,Negative
+steep, abrupt, precipitous, sheer ,Neutral
+stem, arise, derive, emanate, flow, issue, originate ,Neutral
+stench, fetor, malodor, reek, stink ,Neutral
+sterile, infertile, barren, unfruitful, impotent ,Neutral
+stiff, rigid, inflexible, inelastic, tense ,Neutral
+still, quiet, silent, noiseless, soundless ,Neutral
+stingy, close, close-fisted, niggardly, penny-pinching, miserly, parsimonious, penurious, tight ,Negative
+stoop, condescend, deign ,Neutral
+stop, cease, desist, discontinue, halt, quit  ,Neutral
+strange, peculiar, odd, queer, quaint, outlandish, singular, eccentric, curious ,Neutral
+streak, strain, vein ,Neutral
+strength, power, might, energy, force ,Positve
+strip, divest, denude, bare ,Neutral
+strong, stout, sturdy, tough, stalwart, tenacious ,Positve
+strut, swagger, swank ,Neutral
+stupid, slow, dumb, dull, obtuse, dense ,Negative
+suave, smooth, urbane, diplomatic, politic ,Positve
+subject, matter, topic, theme ,Neutral
+substance, burden, core, gist, pith, purport ,Neutral
+sufficient, adequate, enough  ,Neutral
+suggest, imply, hint, intimate, insinuate ,Neutral
+summit, peak, pinnacle, acme, apex, zenith, climax ,Neutral
+superficial, shallow, cursory ,Neutral
+superfluous, excess, extra, spare, supernumerary, surplus, supererogatory ,Neutral
+supervise, boos, overlook, oversee, superintend ,Neutral
+support, uphold, back, advocate, champion ,Neutral
+supposed, conjectural, hypothetical, putative, reputed, suppositious, supposititious [CERTAIN] ,Neutral
+suppress, stifle, repress ,Neutral
+sure, certain, confident, positive ,Positve
+surprise, astonish, amaze, astound, dumbfound, flabbergast ,Neutral
+surrender, submission, capitulation ,Neutral
+surround, circle, compass, encircle, encompass, environ, gird, girdle, ring ,Neutral
+swerve, depart, deviate, digress, diverge, stray, veer ,Neutral
+swing, oscillate, sway, rock, vibrate, fluctuate, undulate, waver ,Neutral
+symbol, attribute, emblem ,Neutral
+tact, address, diplomacy, savoir-faire ,Neutral
+talkative, loquacious, garrulous, voluble, verbose, glib ,Neutral
+tardy, behindhand, late, overdue  ,Neutral
+task, job, chore, stint, assignment ,Neutral
+taste, flavor, relish, savor, smack, tang ,Neutral
+teach, instruct, educate, train, school, discipline, drill ,Neutral
+tear, rip, rend, split, cleave ,Neutral
+teem, abound, bristle, crawl, overflow, swarm ,Neutral
+temerity, audacity, effrontery, nerve, cheek, gall ,Negative
+tend, attend, mind, minister, watch ,Neutral
+tendency, trend, current, drift, tenor, inclination ,Neutral
+theoretical, abstract, academic, hypothetical, speculative ,Neutral
+think, cerebrate, cogitate, reason, reflect, speculate ,Neutral
+thoughtful, considerate, attentive, solicitous ,Neutral
+threaten, menace, intimidate ,Neutral
+throw, cast, hurl, fling, pitch, toss, sling ,Neutral
+tight, taut, tense ,Neutral
+timid,timorous,Neutral
+tire, weary, fatigue, exhaust, jade ,Neutral
+tireless, indefatigable, unflagging, untiring, unwearied, weariless ,Neutral
+tool, instrument, implement, utensil, appliance ,Neutral
+touch, feel, finger, handle, palpate, paw ,Neutral
+trace, vestige, track, trail ,Neutral
+transient, transitory, ephemeral, fleeting, fugitive, momentary, evanescent ,Neutral
+treat, deal, handle ,Neutral
+trial, affliction, crucible, ordeal, tribulation, visitation ,Negative
+trite, hackneyed, shopworn, stereotyped, threadbare, stale, banal ,Neutral
+trivial, trifling, paltry, petty, picayune ,Neutral
+trouble, ail, distress, worry ,Negative
+trust, faith, confidence, reliance, dependence ,Positve
+truth, veracity, verity, verisimilitude ,Positve
+turn, rotate, revolve, gyrate, spin, whirl, circle, eddy, swirl ,Neutral
+type, kind, sort, nature, character, ilk ,Neutral
+ugly, hideous, ill-favored, unsightly ,Negative
+uncertainty, doubt, dubiety, skepticism, suspicion, mistrust ,Neutral
+unctuous, fulsome, oily, oleaginous, smarmy ,Neutral
+unfortunate, hapless, ill-fated, ill-started, luckless, unlucky [FORTUNATE] ,Negative
+unity, union, solidarity ,Positve
+unruly, ungovernable, intractable, refractory, recalcitrant, willful, headstrong, wayward ,Neutral
+unspeakable, indefinable, indescribable, ineffable, inexpressible, unutterable ,Neutral
+urge, press, exhort, prod, prick ,Neutral
+urgent, pressing, imperative, exigent ,Neutral
+use, employ, utilize ,Neutral
+usual, habitual, customary, accustomed ,Neutral
+vain, empty, hollow, idle, nugatory, otiose ,Neutral
+valid, sound, cogent, convincing, telling ,Neutral
+vent, express, utter, voice, air ,Neutral
+versatile, all-around, many-sided, multifaceted, multifarious ,Neutral
+vertical, upright, perpendicular, plumb ,Neutral
+victory, conquest, triumph ,Neutral
+vigor, dash, punch, verve, vim, vitality ,Neutral
+vindictive, vengeful, revengeful ,Negative
+vociferous, blatant, boisterous, strident, clamorous ,Negative
+voluntary, intentional, deliberate, willful, willing ,Neutral
+voracious, gluttonous, rapacious, ravenous ,Neutral
+votary, devotee, habitué ,Neutral
+wander, ramble, roam, rove, range, meander, stray, gallivant, gad ,Neutral
+warn, caution, forewarn ,Neutral
+waste, blow, consume, dissipate, fritter, squander  ,Neutral
+way, route, course, passage, pass, artery ,Neutral
+weak, feeble, frail, fragile, infirm, decrepit, debilitated ,Negative
+weird, eerie, uncanny, unearthly ,Neutral
+wet, damp, moist, dank, humid ,Neutral
+whole, all, entire, gross, total  ,Neutral
+wise, sage, sapient, judicious, prudent, sensible, sane ,Positve
+wit, humor, repartee, sarcasm, irony ,Neutral
+wonder, marvel, miracle, phenomenon, prodigy, sensation ,Positve
+wordy, diffuse, long-winded, prolix, verbose ,Neutral
+work, labor, toil, drudgery, travail ,Neutral
+writhe, agonize, squirm ,Negative
+yearn, long, pine, hanker, hunger, thirst ,Neutral
+yield, relent, bow, defer, submit, capitulate, succumb ,Neutral
+young, youthful, adolescent, immature, juvenile, puerile, green ,Neutral
+zest, gusto, relish ,Positve
